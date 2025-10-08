@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0c46cde6.css",
+    "main.js": "/portfolio/static/js/main.a5448db7.js",
+    "static/js/453.515ecba2.chunk.js": "/portfolio/static/js/453.515ecba2.chunk.js",
+    "static/media/og-default.jpg": "/portfolio/static/media/og-default.c8e967c9cef87f9f874d.jpg",
+    "static/media/cpge_mohamed_v_casablanca_cover.jpeg": "/portfolio/static/media/cpge_mohamed_v_casablanca_cover.6504f99002ac0460a675.jpeg",
+    "static/media/Gascogne-bois-le-comptoir-gris.png": "/portfolio/static/media/Gascogne-bois-le-comptoir-gris.1eae35d46ecc67ce8b4a.png",
+    "static/media/visuel_batiment.jpg": "/portfolio/static/media/visuel_batiment.23e04ccae28c75464c91.jpg",
+    "static/media/KAEL - logo inversé_portfolio.png": "/portfolio/static/media/KAEL - logo inversé_portfolio.2a16031570cfa8ed06a3.png",
+    "index.html": "/portfolio/index.html",
+    "main.0c46cde6.css.map": "/portfolio/static/css/main.0c46cde6.css.map",
+    "main.a5448db7.js.map": "/portfolio/static/js/main.a5448db7.js.map",
+    "453.515ecba2.chunk.js.map": "/portfolio/static/js/453.515ecba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c46cde6.css",
+    "static/js/main.a5448db7.js"
+  ]
+}
